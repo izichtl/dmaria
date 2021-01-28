@@ -207,8 +207,8 @@ p{
     margin: 10px 0 10px 0;
 }
 #video{
-    width: 70%;
-    height: 65%;
+    width: 500px;
+    height: 350px;
     margin: 10px;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 6px 10px;
 }
@@ -286,6 +286,11 @@ p{
     }
     #video-embedded{
         height: auto;
+    }
+    #video{
+        width: 70%;
+        margin: 10px;
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 6px 10px;
     }
     #footer a, p{
         text-decoration: none;
